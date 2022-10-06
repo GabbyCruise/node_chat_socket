@@ -9,8 +9,9 @@ To start setting up the project
 
 * Start the chat app
 
+* node server.js / nodemon server ( if you have nodemon installed )
 
-npm start
+
 # Author
 Gabriel Jonah
 
